@@ -1,3 +1,8 @@
+## Objective:
+-The IMU on the pycubed is no longer in production
+-Need to replace with a new IMU
+-But the IMU my team found has  **vddio**
+
 ## Inertial Measurement Unit(IMU)
 -Uses sensors to measure orientation. 
 -Most IMUs are **9-axis**
