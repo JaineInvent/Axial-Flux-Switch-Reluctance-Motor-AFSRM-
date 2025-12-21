@@ -4,6 +4,7 @@
 - The IMU my team found has **VDDIO = 1.9 V**
 - The rest of the components on the PyCubed require **3.3 V**
 - The solution is to use a **Low Dropout Regulator (LDO)**
+- "All the pins need a ratio of VDDIO of 1.9v, so they need a" **bidirectional-level shifter**
 
 ## Inertial Measurement Unit (IMU)
 - Uses sensors to measure orientation
