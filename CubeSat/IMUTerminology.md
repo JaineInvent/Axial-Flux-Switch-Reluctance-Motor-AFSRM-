@@ -1,7 +1,9 @@
 ## Objective:
 -The IMU on the pycubed is no longer in production
 -Need to replace with a new IMU
--But the IMU my team found has  **vddio**
+-But the IMU my team found has  **vddio** = 1.9v
+-The rest of the components on the Pycubed require 3.3v 
+-The solution to that is a **Linear Drop Off(LDO)**
 
 ## Inertial Measurement Unit(IMU)
 -Uses sensors to measure orientation. 
