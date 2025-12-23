@@ -26,3 +26,10 @@
 - IMU produces 1.9V signal output but the MCU requires 3.3V
 - BLS shifts input/output signals between 1.9V-3.3V
 ## VDDIO: Supply Voltage for digital input/output pins. 
+## I2C: Communications Protocol
+- Serial Communications: Bits are sent over a wire sequentially
+- I2C is serial communication, but over 2 wires (**SDA** & **SDL**)
+-I2C addresses exist so that the Microcontroller knows where to send bits
+- **SDA** pin: bidirectional-sends bits between address and microcontroller
+- **SCL** pin: Bidirectional- tells microcontroller/imu when to read/write SDA bits
+- **nCS**: 
