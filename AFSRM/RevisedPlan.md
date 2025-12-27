@@ -4,7 +4,8 @@ Due to the 3D printers have a max bed size of 150mm x 150mm, I chose a radius of
 - r = 40mm
 2. Identify Power(output) and torque requirements: 
 - I'll find an interesting robot online, and base my actuator goals based on that of the existing actuator
-- Using Dynamics/Physics 1 I can calculate rotational and linear velocity needed for a specific range of loads (which will relate to electronics! :D ) 
+- Based on electrical constraints, I can calculate max torque for my actuator
+- Then I can improve on that torque(ie make it useful using planetary gears and dynamics)
 3. Design Casing 
 - Room for electronics/wiring, sensors, bearings, gears for ratios if needed  
 - Thermal considerations
@@ -33,3 +34,6 @@ Due to the 3D printers have a max bed size of 150mm x 150mm, I chose a radius of
 - Hall Sensor?
 - Motor controller? 
 - Still need to do more research on that. 
+
+# Overall Flow: 
+Electrical constraints --> Mechanical optimization, should be fun. 
