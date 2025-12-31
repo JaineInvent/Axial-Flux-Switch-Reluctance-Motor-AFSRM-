@@ -72,8 +72,8 @@ This project is being developed incrementally as a long-term exploratory effort,
 Readme Author: Jaine R.
 
 Project Contributors: 
-  - Jaine R(Electrical & Mechanical) 
-  - Kezia S.(Controls)
+  - Jaine R. (Electrical & Mechanical) 
+  - Kezia S. (Controls)
 
   Note: This is an ongoing project. Teammates and contributions will be added as the project progress.
 
