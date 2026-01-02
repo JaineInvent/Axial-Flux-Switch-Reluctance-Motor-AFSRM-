@@ -38,12 +38,15 @@ This project is being developed incrementally as a long-term exploratory effort,
 
 2. [Mechanical](./Mechanical/) 
 
-    3D Model the AFSRM to perform Thermal Analysis(FEA) and create solutions 
+   - 3D Model the AFSRM including casing
+   - Improve output torque & rpm
+   - Perform Thermal Analysis(FEA) and create solutions to heating 
 
 
 4. [Controls](./Controls/)
 
-   Integrate motor controls and sensors 
+   - Integrate motor controls and sensors
+   - Design a mock Battery Management System
 
 For more information, please refer to: [Detailed Project Plan](ProjectOutline.md)
 
