@@ -40,3 +40,4 @@ Author: Jaine R.
 
 ## 1/9/25 
 -Finished dubugging the coil generator, which produced this PCB Stator: 
+<img width="1100" height="1100" alt="coil1" src="https://github.com/user-attachments/assets/7511d6f1-92c1-4b4b-8364-f6b5b6d0a599" />
