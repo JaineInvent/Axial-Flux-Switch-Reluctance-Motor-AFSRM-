@@ -41,3 +41,12 @@ Author: Jaine R.
 ## 1/9/25 
 -Finished dubugging the coil generator, which produced this PCB Stator: 
 <img width="900" height="900" alt="coil1" src="https://github.com/user-attachments/assets/7511d6f1-92c1-4b4b-8364-f6b5b6d0a599" />
+
+Issues with this PCB and the code:
+- Input vias too close to shaft hole
+- hole radius <8 mm
+- Code doesn't handle scaling, rather, the author uses an unshared formula to change the geometry for larger PCB radii
+
+The first 2 bullets are solved by changing input parameters. However, scaling is yet another bottleneck of this project. 
+        
+  
