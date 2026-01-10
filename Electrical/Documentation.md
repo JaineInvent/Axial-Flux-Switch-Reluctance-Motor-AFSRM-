@@ -61,6 +61,8 @@ Update: Upon closer inspection of the code, the template can be used in the geom
 <img width="917" height="959" alt="b92572ce-021f-4720-8c92-ca1273e57e0a" src="https://github.com/user-attachments/assets/e4bf01c9-8ffc-41a6-ad8c-4b771e78e276" />
 
 Next Steps: 
+
+- rescale the above plot such that pads are visible and holes for pcb mounting can be inspected
 - Use Biot-Savart code and modify the pcb to optimize for largest B-feild in the axial direction
 - Calculate max torque and rpm with an assumed current and voltage (Assumptions listed in corresponding entry)
    
